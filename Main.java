@@ -35,7 +35,7 @@ public class Main {
 
         System.out.println("Coteudos Inscritos Jota" + devJota.getConteudosInscritos());
         System.out.println("Coteudos Cocluidos Jota" + devJota.getConteudosConcluidos());
-        System.out.println("Xp:" + devJota.calcularXp();
+        System.out.println("Xp:" + devJota.calcularXp());
 
 
     }
